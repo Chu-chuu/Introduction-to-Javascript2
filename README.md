@@ -6,3 +6,4 @@ Submission Mode
 GitHub Url
 
 ## Solution
+https://chu-chuu.github.io/Introduction-to-Javascript2/
